@@ -1,0 +1,7 @@
+# ignorando todos os arquivos e adicionando as extensoes manualmente
+*.*
+
+!*.pdf
+!*.py
+!*.jl
+!*.ipynb
