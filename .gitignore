@@ -2,6 +2,7 @@
 *.*
 
 !*.pdf
+!*.md
 !*.py
 !*.jl
 !*.ipynb
